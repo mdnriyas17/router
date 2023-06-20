@@ -46,3 +46,7 @@ Link{
 Link:hover{
   color: yellow;
 }
+
+Link{
+  color: bisque;
+}
